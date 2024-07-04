@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  test_url_for:
+    image: fastapi-line-notify
+    build: .
+    env_file:
+      - .env
+    ports:
+      - 8000:8000
