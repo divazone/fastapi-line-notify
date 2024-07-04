@@ -76,4 +76,4 @@ At the same time, the browser will be redirected to `/notify/check` with the cod
 
 # License
 
-[MIT](https://github.com/divazone/fastapi-line-notify/blob/master/MIT-LICENSE)
+[MIT](https://github.com/divazone/fastapi-line-notify/blob/master/LICENSE)
