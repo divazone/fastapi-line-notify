@@ -11,7 +11,7 @@ Set the Callback URL to `http://YOUR_DOMAIN/callback`, and for local testing, us
 
 ```sh
 cp .env.sample .env
-python api.py
+uvicorn main:app --host=0.0.0.0 --port=8000
 ```
 
 or
